@@ -1,16 +1,29 @@
-# roseryapp
+# Rose English
 
-A new Flutter project.
+> `Hello Developer! have a good time taking this app to the next level` >
+>
+> [GitHub Repo](https://github.com/Alwasil-Software/english-language-games-app)
 
-## Getting Started
+## this app was build using Flutter/Dart
 
-This project is a starting point for a Flutter application.
+_The application is offline support, but without any user's preference and local storing. all the data is save temporarily saved on memory._
 
-A few resources to get you started if this is your first Flutter project:
+## suggestions for further development:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> - Use user preference to enhance the
+> - student's experience
+> - configure the UI with a server.
+> - Adding competition feature.
+> - Add Parents and Teacher Mentoring feature
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# About the Developer:
+
+<img src="img.jpg" alt="Image" width="300" height="300">
+<!-- ![alt text](img.jpg) -->
+#``Mr. Abdulhafeez Ismael``
+### *``A software developer and professional English Teacher.``*
+
+Contacts:
+
+> Whatapp: `249115337188`
+> Tel: `249965717288`
